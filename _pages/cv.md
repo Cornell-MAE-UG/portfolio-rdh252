@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: <Reggie Harris> - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
