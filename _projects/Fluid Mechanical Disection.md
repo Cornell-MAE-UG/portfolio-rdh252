@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Chainsaw Engine Disection
+title: Chainsaw Disection
 description: Disection and Analysis of a 2-Stroke 1 Cylindar Chainsaw Engine
 image: /assets/images/Chainsaw.png
 ---

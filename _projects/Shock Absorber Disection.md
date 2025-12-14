@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Shock Absorber Disection
+title: Sys Dynamics Disection
 description: Disection + Analysis of a Shock Absorber Through a System Dynamics Lens
 image: /assets/images/ShockAbsorber.png
 ---
